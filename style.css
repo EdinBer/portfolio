@@ -35,6 +35,8 @@
 .gradient-home {
     background-image: linear-gradient(to top, #fff1eb 0%, #ace0f9 100%);
     border: none;
+    min-height: 100vh;
+
 }
 
 .gradient-home-2 {
@@ -65,6 +67,9 @@
 
 .custom-text-size {
     font-size: 10vw;
+}
+
+main {
 }
 
 .home-box {
